@@ -21,5 +21,12 @@ The Data Analysis Workflow followed for this project is as shown below.
    c. Label Encoding
    
 6. Model Building
+
+   a. Linear Regression Model
+   
+   b. Decision Tree Regressor Model
+   
+   c. Random Forest Regressor Model
+   
 7. Recommendations & Findings
   
